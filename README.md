@@ -16,7 +16,7 @@ analyse_presence:
 give the ratio of apparition of each mask and sky displacement as a function of each parameter, in the python console thought table and save them in graphics file
 
 stat_dlt-mag_dist(2):
-calculate the rate of appirition of each product in all simulations
+calculate the rate of apparition of each product in all simulations
 
 tableaux_metric_priority:
 create the heatmap of each parameter as a function of the value of the metric_priority
